@@ -1,8 +1,8 @@
 ## Tamara Priymenko. Business Analysis Space
 
-### ТЗ на интеграцию AmoCRM и Asana
-
 ![Aspose Words 03287024-dbce-421d-b73b-d06f700eb9d8 001](https://user-images.githubusercontent.com/46677884/197208992-2d5af1cd-7c4e-4000-826d-fb67a7684202.png)
+
+### ТЗ на интеграцию AmoCRM и Asana
 
 #### Создание задачи в Asana по кнопке из сделки AmoCRM
 
