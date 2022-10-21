@@ -16,8 +16,7 @@
 
 **Схема процесса «Подготовка к отпуску»**
 
-![Aspose Words 8f499b45-9ae9-4b2c-883e-33b1c3203a3c 001](https://user-images.githubusercontent.com/46677884/197238057-13835854-dafe-4acd-bd01-25fb060fadbc.jpeg)
-
+![Swimlane Diagram](https://user-images.githubusercontent.com/46677884/197238207-2195fd92-c938-49df-b8cc-6588fec916e0.jpg)
 
 
 
