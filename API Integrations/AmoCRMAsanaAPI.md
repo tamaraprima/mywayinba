@@ -42,7 +42,7 @@
 
 |**Обязательный Параметр**|**Тип Данных**|**Описание**|
 | :- | :- | :- |
-|"name"|string|Название сделки |
+|"name"|string|Название сделки|
 |"responsible\_user\_id"|int|ID пользователя, ответственного за сделку|
 
 ![Aspose Words 03287024-dbce-421d-b73b-d06f700eb9d8 005](https://user-images.githubusercontent.com/46677884/197210492-18f0d1b2-d7f0-486e-9e72-c5d87e11f245.png)**Asana    ![Aspose Words 03287024-dbce-421d-b73b-d06f700eb9d8 006](https://user-images.githubusercontent.com/46677884/197209271-10b57d13-daaf-4f59-9f44-e8ec20a984af.png)**
