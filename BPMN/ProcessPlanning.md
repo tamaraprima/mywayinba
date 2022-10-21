@@ -1,6 +1,6 @@
 ## Tamara Priymenko. Business Analysis Space
 
-![Aspose Words 03287024-dbce-421d-b73b-d06f700eb9d8 001](https://user-images.githubusercontent.com/46677884/197208992-2d5af1cd-7c4e-4000-826d-fb67a7684202.png) 
+![Aspose Words 03287024-dbce-421d-b73b-d06f700eb9d8 002](https://user-images.githubusercontent.com/46677884/197209062-a10c88fd-6270-438a-9d39-112f4ce88474.png)
 
 ### Описание процесса «Подготовка к отпуску»
 
