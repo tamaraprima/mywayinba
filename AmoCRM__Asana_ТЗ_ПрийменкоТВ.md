@@ -1,4 +1,4 @@
-﻿![](Aspose.Words.03287024-dbce-421d-b73b-d06f700eb9d8.001.png)
+![Aspose Words 03287024-dbce-421d-b73b-d06f700eb9d8 001](https://user-images.githubusercontent.com/46677884/197208992-2d5af1cd-7c4e-4000-826d-fb67a7684202.png)
 
 **Создание задачи в Asana по кнопке из сделки AmoCRM**
 
@@ -8,7 +8,7 @@
 
 **Действие:** Создание задачи в **Asana** в секции "**На очереди**", где название задачи и ответственный за нее соответствуют названию сделки и ответственному из AmoCRM
 
-![](Aspose.Words.03287024-dbce-421d-b73b-d06f700eb9d8.002.png)
+![Aspose Words 03287024-dbce-421d-b73b-d06f700eb9d8 002](https://user-images.githubusercontent.com/46677884/197209062-a10c88fd-6270-438a-9d39-112f4ce88474.png)
 
 **Авторизация в AmoCRM**
 
@@ -35,7 +35,7 @@
 
 **Взаимодействие с API**
 
-![](Aspose.Words.03287024-dbce-421d-b73b-d06f700eb9d8.003.png)**amoCRM  ![](Aspose.Words.03287024-dbce-421d-b73b-d06f700eb9d8.004.png)**
+![Aspose Words 03287024-dbce-421d-b73b-d06f700eb9d8 003](https://user-images.githubusercontent.com/46677884/197209128-d43fb021-7d86-4326-9330-20847a708b14.png)**amoCRM  ![](Aspose.Words.03287024-dbce-421d-b73b-d06f700eb9d8.004.png)**
 
 Метод позволяет получить данные конкретной сделки по ID
 
@@ -43,7 +43,9 @@
 | :- | :- | :- |
 |"name"|string|Название сделки |
 |"responsible\_user\_id"|int|ID пользователя, ответственного за сделку|
-![](Aspose.Words.03287024-dbce-421d-b73b-d06f700eb9d8.005.png) **Asana     ![](Aspose.Words.03287024-dbce-421d-b73b-d06f700eb9d8.006.png)**
+
+![Aspose Words 03287024-dbce-421d-b73b-d06f700eb9d8 004](https://user-images.githubusercontent.com/46677884/197209230-8186f2a8-b241-4b39-b33e-03e3826932de.png)**Asana     ![Aspose Words 03287024-dbce-421d-b73b-d06f700eb9d8 006](https://user-images.githubusercontent.com/46677884/197209271-10b57d13-daaf-4f59-9f44-e8ec20a984af.png)
+
 
 Метод позволяет создать задачу по заданным параметрам 
 
@@ -78,7 +80,8 @@ HTTP/1.1 400 Bad Request
 
 }
 
-![](Aspose.Words.03287024-dbce-421d-b73b-d06f700eb9d8.007.png)
+
+![Aspose Words 03287024-dbce-421d-b73b-d06f700eb9d8 007](https://user-images.githubusercontent.com/46677884/197209337-afe03449-a177-434a-8f4d-4ed25be88696.png)
 
 
 **Ссылки**
