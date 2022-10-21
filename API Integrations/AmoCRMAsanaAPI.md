@@ -67,15 +67,8 @@
 ##### [Ошибки валидации данных](https://developers.asana.com/docs/errors) при выполнении некорректного запроса к Asana
 **Пример ответа от Asana:** 
 
-HTTP/1.1 400 Bad Request
+![изображение](https://user-images.githubusercontent.com/46677884/197211077-a35b1be5-9e9c-45c1-8c9a-cd845790184e.png)
 
-{
-`  `"errors": [
-`  `{
-`    `"message": "workspace: Missing input"
-`  `}
-`  `]
-}
 
 ![Aspose Words 03287024-dbce-421d-b73b-d06f700eb9d8 007](https://user-images.githubusercontent.com/46677884/197209337-afe03449-a177-434a-8f4d-4ed25be88696.png)
 
