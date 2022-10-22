@@ -1,6 +1,7 @@
 ## Tamara Priymenko. Business Analysis Space
 
-![My Way in BA - Knowledge and Skills](https://user-images.githubusercontent.com/46677884/197365164-433c19e0-225a-4bf8-a9cb-8c766d31ab0f.jpg)
+![My Way in BA - Knowledge and Skills](https://user-images.githubusercontent.com/46677884/197365319-786c3b3f-909f-4d76-bf9c-e13600abb129.jpg)
+
 
 ### Мои работы 2022. Задачи придуманы и взяты для примера
 
