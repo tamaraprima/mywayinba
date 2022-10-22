@@ -82,6 +82,6 @@
 
 #### JSON представление объекта Фильм**
 
-![Aspose Words 8f78dbe2-0f64-4054-99a9-87984a458556 004](https://user-images.githubusercontent.com/46677884/197335303-4ba272ca-9db6-45a8-9450-6a1d1b758265.png)
+![изображение](https://user-images.githubusercontent.com/46677884/197336387-c1f0ce8f-fd65-451b-8667-c1c545465f13.png)
 
 [OnlineCinemaFilmJSONjsonformatter.txt](https://github.com/tamaraprima/mywayinba/files/9844145/OnlineCinemaFilmJSONjsonformatter.txt)
