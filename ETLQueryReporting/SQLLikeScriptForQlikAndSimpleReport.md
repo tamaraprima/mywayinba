@@ -9,7 +9,7 @@
 ![изображение](https://user-images.githubusercontent.com/46677884/197364503-502f9e90-2da0-4073-9a43-1352405c4357.png)
 ![изображение](https://user-images.githubusercontent.com/46677884/197364509-d3a679ee-40d4-4ab8-b367-703299323156.png)
 
-[QlikETLScript.txt](https://github.com/tamaraprima/mywayinba/files/9845371/QlikETLScript.txt)
+[QlikETLSQLLikeScript.txt](https://github.com/tamaraprima/mywayinba/files/9845371/QlikETLScript.txt)
 
 #### Модель данных, используемая для отчета
 
