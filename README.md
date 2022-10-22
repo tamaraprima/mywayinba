@@ -6,5 +6,6 @@
 2. [Бизнес процесс приготовления компотов (Вопросы для интервью, Диаграмма процесса в Miro, User Stories в Jira)](BPAutomation/InterviewDiagramUserStories.md)
 3. [Проектирование API онлайн кинотеатра (Use Case, Sequense Diagram в PlantText, Методы API, Пример JSON)](APIDesign/OnlineCinemaUseCaseSequenseAPIMethodsJSON.md)
 4. [Мини-ТЗ на Интеграцию по API Asana и AmoCRM](IntegrationAPI/AmoCRMAsanaAPI.md)
+5. [ETL скрипт для загрузки данных и создание отчета в QlikSense (SQL-like query) ](ETLQueryReporting/SQLLikeScriptForQlikAndSimpleReport.md)
 
 
