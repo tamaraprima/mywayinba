@@ -12,19 +12,21 @@
 
 #### Use Case
 
-![Aspose Words 8f78dbe2-0f64-4054-99a9-87984a458556 002](https://user-images.githubusercontent.com/46677884/197335142-f8eb804a-2254-4c30-b07b-c41fefff4f3c.png)
+![OnlineCinemaUseCasePlantTextUML](https://user-images.githubusercontent.com/46677884/197335243-322788df-ee70-4c50-8083-d50a7d7fc9dd.png)
 
 [OnlineCinemaUseCasePlanttextUML.txt](https://github.com/tamaraprima/mywayinba/files/9844134/OnlineCinemaUseCasePlanttextUML.txt)
 
 Архитектура нашего онлайн кинотеатра будет следующей: **Frontend – Backend - БД**
 
+#### Sequence diagram
 
+![OnlineCinemaSequenceDiagramPlantTextUML](https://user-images.githubusercontent.com/46677884/197335263-fdb81243-ad73-4efd-8326-e38aba95177f.png)
 
-**Sequence diagram![](Aspose.Words.8f78dbe2-0f64-4054-99a9-87984a458556.003.png)**
+[OnlineCinemaSequenceDiagramPlanttextUML.txt](https://github.com/tamaraprima/mywayinba/files/9844141/OnlineCinemaSequenceDiagramPlanttextUML.txt)
 
 Проектируем возможные методы с указанием предлагаемых параметров в виде простого текстового описания. 
 
-**Методы API**
+#### Методы API
 
 **Метод**: Получить данные для главной страницы
 
@@ -78,38 +80,8 @@
   - Основная информация
 
 
-**
+#### JSON представление объекта Фильм**
 
-**JSON представление объекта Фильм**
+![Aspose Words 8f78dbe2-0f64-4054-99a9-87984a458556 004](https://user-images.githubusercontent.com/46677884/197335303-4ba272ca-9db6-45a8-9450-6a1d1b758265.png)
 
-![](Aspose.Words.8f78dbe2-0f64-4054-99a9-87984a458556.004.png)
-
-**{**
-
-`  `**"film": {**
-
-`    `**"name": "Самый интересный фильм",**
-
-`    `**"poster": "https://unsplash.com/photos/4modNup9AzI",**
-
-`    `**"year": 2022,**
-
-`    `**"subscription\_only": true,**
-
-`    `**"actors": [**
-
-`      `**"Анджелина Джоли",**
-
-`      `**"Джонни Депп",**
-
-`      `**"Леонардо ДиКаприо"**
-
-`    `**],**
-
-`    `**"rating": 9.8,**
-
-`    `**"duration\_minutes": 110**
-
-`  `**}**
-
-**}**
+[OnlineCinemaFilmJSONjsonformatter.txt](https://github.com/tamaraprima/mywayinba/files/9844145/OnlineCinemaFilmJSONjsonformatter.txt)
