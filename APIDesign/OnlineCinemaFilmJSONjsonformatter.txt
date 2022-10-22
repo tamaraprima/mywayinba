@@ -1,0 +1,15 @@
+{
+  "film": {
+    "name": "Самый интересный фильм",
+    "poster": "https://unsplash.com/photos/4modNup9AzI",
+    "year": 2022,
+    "subscription_only": true,
+    "actors": [
+      "Анджелина Джоли",
+      "Джонни Депп",
+      "Леонардо ДиКаприо"
+    ],
+    "rating": 9.8,
+    "duration_minutes": 110
+  }
+}

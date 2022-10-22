@@ -1,0 +1,18 @@
+@startuml
+
+left to right direction
+
+actor Пользователь as U
+
+package "Онлайн кинотеатр" {
+usecase (Зайти на главную страницу) as Main
+usecase (Открыть раздел с фильмами определеного жанра) as Type
+usecase (Посмотреть детальную информацию о фильме) as Film
+}
+U --> Main
+U --> Type
+U --> Film
+
+note "Только выбранные сценарии для примера" as N
+
+@enduml
