@@ -2,7 +2,7 @@
 
 ### Создание отчета в Qlik Sense на основе нескольких Excel таблиц данных
 
-Все исходные данные в Excel, а также сам скрипт [тут](https://github.com/tamaraprima/mywayinba/ETLQueryReporting)
+Все исходные данные в Excel, а также сам скрипт [тут](https://github.com/tamaraprima/mywayinba/tree/main/ETLQueryReporting)
 
 #### ETL скрипт на SQL-like языке Qlik
 
