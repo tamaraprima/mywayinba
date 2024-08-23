@@ -1,4 +1,4 @@
-## Tamara Priymenko. Business Analysis Space
+## Tamara Priymenko. System Analysis Space
 
 ![My Way in BA - Knowledge and Skills](https://user-images.githubusercontent.com/46677884/197365319-786c3b3f-909f-4d76-bf9c-e13600abb129.jpg)
 
